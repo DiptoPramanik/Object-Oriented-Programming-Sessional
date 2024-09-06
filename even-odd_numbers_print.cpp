@@ -8,6 +8,7 @@ int main()
     {
         cout<<i<<endl;
     }
+    cout<<endl;
     //odd numbers;
     for(int i=1;i<=n;i+=2)
     {
